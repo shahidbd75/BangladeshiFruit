@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">BangladeshiFruit</string>
+    <string name="app_name">Bangladeshi Fruit</string>
+    <array name="array_season_name">
+        <item>Summer</item>
+        <item>Winter</item>
+        <item>All</item>
+    </array>
+    <string name="btn_find">Find</string>
 </resources>
