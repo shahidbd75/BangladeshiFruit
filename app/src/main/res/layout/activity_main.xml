@@ -7,6 +7,14 @@
     android:orientation="vertical"
     android:padding="10dp"
     tools:context=".MainActivity">
+    <TextView
+        android:text="Bangladeshi Fruits"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
     <Spinner
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
